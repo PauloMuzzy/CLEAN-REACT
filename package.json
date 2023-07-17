@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/PauloMuzzy/CLEAN-REACT/issues"
   },
-  "homepage": "https://github.com/PauloMuzzy/CLEAN-REACT#readme"
+  "homepage": "https://github.com/PauloMuzzy/CLEAN-REACT#readme",
+  "devDependencies": {
+    "git-commit-msg-linter": "^5.0.4"
+  }
 }
