@@ -1,14 +1,13 @@
-{
-  "compilerOptions": {
+{ "compilerOptions": {
       "target": "es5",
       "lib":[
-      "DOM",
-      "DOM.Iterable",
-      "ESNext"
+      "dom",
+      "dom.iterable",
+      "esnext"
     ],
     "esModuleInterop": true,
-    "module": "ESNext",
-    "moduleResolution": "Node",
+    "module": "esnext",
+    "moduleResolution": "node",
     "jsx": "react",
     "rootDir": "src",
     "baseUrl": "src",
@@ -17,7 +16,6 @@
     "strict": true,
     "forceConsistentCasingInFileNames": true,
     "resolveJsonModule": true,
-    "isolatedModules": true,
     "noEmit": true
     },
   "include": ["src"]
